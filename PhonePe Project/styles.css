@@ -1,0 +1,106 @@
+.container-fluid {
+    background-color: #6739B6;
+    padding: 0 10% 10%;
+    letter-spacing: 2px;
+}
+
+
+.navbar-brand img {
+    width: 250px;
+    height: auto;
+}
+
+.navbar a {
+    font-size: 1.2rem;
+}
+
+.push-right {
+    justify-content: flex-end;
+}
+
+.navbar-nav {
+    padding: 0 10%;
+    margin: 0 15%;
+}
+
+.navbar-nav .nav-item {
+    margin: 0 7%;
+}
+
+.nav-link {
+    color: rgb(185, 180, 180);
+}
+
+.big-heading {
+    font-size: 3rem;
+    color: white;
+    margin: 10% 0;
+}
+
+.image-iphone {
+    width: 20%;
+    right: 20%;
+    position: absolute;
+}
+
+.download-button {
+    margin: 0 3% 5% 0;
+}
+
+.download-button:hover {
+    color: black;
+    background-color: white;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.plate {
+    padding: 50px;
+    text-align: center;
+    background-color: aliceblue;
+    margin: 5% auto;
+}
+
+.plate-group {
+    padding: 5% 10%;
+    margin: 0;
+}
+
+.plate-img {
+    width: 60px;
+    height: auto;
+}
+
+.plate-heading {
+    margin: 5%;
+}
+
+.grey-section {
+    background-color:#f1f1f1;
+    margin: 0;
+    padding: 5%;
+    text-align: center;
+}
+
+.modi {
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+.grey-heading {
+    font-size: 2rem;
+    letter-spacing: 1px;
+}
+
+.news-img{
+    width: 100px;
+    margin: 20px 40px;
+}
+
+.news-channels {
+padding: 2%;
+}
